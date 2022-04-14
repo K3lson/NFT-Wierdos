@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NFT-Wierdos/static/css/main.804b83a6.css",
-    "main.js": "/NFT-Wierdos/static/js/main.95b04301.js",
+    "main.js": "/NFT-Wierdos/static/js/main.1e6badda.js",
     "static/media/Home Video.mp4": "/NFT-Wierdos/static/media/Home Video.d4bf2265b2f4a01a1582.mp4",
     "static/media/akaya-telivigala-all-400-normal.woff": "/NFT-Wierdos/static/media/akaya-telivigala-all-400-normal.78fd8cb2a221beeb77ce.woff",
     "static/media/akaya-telivigala-telugu-400-normal.woff2": "/NFT-Wierdos/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
@@ -24,10 +24,10 @@
     "static/media/Arrow.svg": "/NFT-Wierdos/static/media/Arrow.2aa046cef6c722596b055a335b4a9792.svg",
     "index.html": "/NFT-Wierdos/index.html",
     "main.804b83a6.css.map": "/NFT-Wierdos/static/css/main.804b83a6.css.map",
-    "main.95b04301.js.map": "/NFT-Wierdos/static/js/main.95b04301.js.map"
+    "main.1e6badda.js.map": "/NFT-Wierdos/static/js/main.1e6badda.js.map"
   },
   "entrypoints": [
     "static/css/main.804b83a6.css",
-    "static/js/main.95b04301.js"
+    "static/js/main.1e6badda.js"
   ]
 }
