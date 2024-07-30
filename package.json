@@ -1,7 +1,7 @@
 {
   "name": "the-weirdos-starter-code",
   "version": "0.1.0",
-  "homepage": "https://k3lson.github.io/NFT-Wierdos/",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@fontsource/akaya-telivigala": "^4.5.5",
