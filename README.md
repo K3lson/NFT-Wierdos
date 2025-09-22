@@ -6,12 +6,6 @@
 
 This repository contains starter code for NFT Collection Website in ReactJS. <br />
 
-View Demo👇: <br />
-https://the-weirdos.netlify.app/ <br />
-
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/edr2o59Twrs <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/edr2o59Twrs?style=social)](https://youtu.be/edr2o59Twrs)<br />
 
 
 ### NOTE:  <br />
